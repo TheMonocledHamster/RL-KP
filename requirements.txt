@@ -1,0 +1,4 @@
+numpy
+tensorflow
+or-gym
+"ray[rllib]"
